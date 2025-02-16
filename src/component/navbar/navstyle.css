@@ -1,0 +1,135 @@
+.navbar{
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #333D79FF;
+    box-shadow:#333D79FF(50, 50, 93, 0.30)0 30px 30px -20px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+}
+.innerlinks{
+    color: white;
+}
+.logo-textarea{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    line-height: 60px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    margin-left: 1.5rem;
+    
+}
+.nav-logo{
+    color: white;
+    text-decoration: none;
+}
+.textarea{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin: 10px 0;
+    background: #fff;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.textarea input{
+    width: 100px;
+    border: none;
+    padding: 5px 10px;
+    outline: none;
+}
+.textarea input:hover{
+    width: 200px;
+    transition: 1s ease-in-out;
+}
+.search{
+    font-size: 1.6rem;
+    color: #142d4c;
+    margin-top: 10px;
+}
+
+.nav-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width:100%;
+    line-height: 60px;
+    font-size: 20px;
+    margin-right: 1.5rem;
+}
+
+.nav-links li{
+    padding: 0 30px;
+    list-style: none;
+    color: white;
+    font-weight: 600;
+}
+.nav-links li:hover{
+    color:#FC766AFf;
+}
+.icons{
+    display: none;
+    font-size: 2rem;
+    cursor: pointer;
+    color: white;
+}
+.link{
+    text-decoration: none;
+}
+
+@media screen and (max-width:650px){
+    .navbar{
+        display: block;
+        width: 100vw;
+    }
+    .logo-textarea{
+        width: 100%;
+    }
+    .logo{
+        font-size: 1.2rem;
+    }
+    .icons{
+        display: block;
+        line-height: 60px;
+        margin-right: 20px;
+    }
+    .icons:hover{
+        color: #42b883;
+    }
+    .nav-links{
+        margin-top: 0%;
+        position: fixed;
+        left: -800PX;
+        display: flex;
+        flex-direction: column;
+        width: 200PX;
+        background: #9fd3c7;
+        z-index: 1;
+    }
+    .nav-links.active{
+        left: 0;
+    }
+    .nav-links li{
+        border-top: 2px solid white;
+        line-height: 70%;
+        text-align: center;
+        padding: 20px 30px;
+    }
+    .nav-links li:hover{
+        color: #142d4c;
+    }
+}
+.textarea input:hover{
+    width: 100px;
+    transition: 1s ease-in-out;
+}
+.textarea input{
+    width: 75px;
+}

@@ -1,0 +1,74 @@
+.Maincontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    height: 100vh;
+  }
+  
+  .container {
+    width: 400px;
+  }
+  
+  .card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+  }
+  
+  .headers h1 {
+    margin: 0;
+  }
+  
+  .formelements {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    width: 90%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  textarea.form-control {
+    height: 100px;
+  }
+  
+  .submit {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit:hover {
+    background-color: #0056b3;
+  }
+  
+  .errmsg {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .error {
+    margin-top: 10px;
+  }
+  
+  .message {
+    color: red;
+  }
+  
+  .footer {
+    margin-top: 20px;
+    text-align: center;
+  }
+  .login{
+    margin: 10px;
+  }
+  .link{
+    text-decoration: none;
+    color: #ccc;
+  }

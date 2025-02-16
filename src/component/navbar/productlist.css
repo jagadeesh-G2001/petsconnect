@@ -1,0 +1,35 @@
+.productlist{
+    display: flex;
+    justify-content: space-around;
+    margin:80px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding-top: 60px;
+   
+}
+.cart-button{
+    margin:20px;
+}
+.subtotal{
+margin-top: 30px;
+font-size: larger;
+}
+
+@media screen and (max-width:760px){
+
+    .productlist{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin:20px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        padding-top: 60px;
+       
+    }
+
+
+    
+}

@@ -1,0 +1,144 @@
+[
+    {
+        "id":1,
+        "price":899,
+        "title":"adult food 4kg",
+        "stock":6,
+        "img":"/images/droolsadult.jpg"
+    },
+    {
+        "id":2,
+        "title":"chunk fo0d",
+        "price":80,
+        "stock":0,
+        "img":"/images/droolschunk.jpg"
+    },
+    {
+        "id":3,
+        "title":"drools focus",
+        "price":699,
+        "stock":0,
+        "img":"/images/droolsfocus.jpg"
+    },
+    {
+        "id":4,
+        "title":"trail kit",
+        "price":20,
+        "stock":100,
+        "img":"/images/drooltrail.jpg"
+    },
+    {
+        "id":5,
+        "title":"pedegree",
+        "stock":100,
+        "price":799,
+        "img":"/images/pedegree.jpg"
+    },
+    {
+        "id":6,
+        "title":"adult food 4kg",
+        "price":800,
+        "stock":100,
+        "img":"/images/droolsadult.jpg"
+    },
+    {
+        "id":7,
+        "title":"chunk fo0d",
+        "stock":0,
+        "price":899,
+        "img":"/images/droolschunk.jpg"
+    },
+    {
+        "id":8,
+        "title":"drools focus",
+        "stock":0,
+        "price":899,
+        "img":"/images/droolsfocus.jpg"
+    },
+    {
+        "id":9,
+        "title":"trail kit",
+        "stock":100,
+        "price":89,
+        "img":"/images/drooltrail.jpg"
+    },
+    {
+        "id":10,
+        "title":"pedegree",
+        "price":899,
+        "stock":100,
+        "img":"/images/pedegree.jpg"
+    },
+    
+    {
+        "id":11,
+        "title":"adult food 4kg",
+        "price":799,
+        "stock":100,
+        "img":"/images/droolsadult.jpg"
+    },
+    {
+        "id":12,
+        "title":"chunk fo0d",
+        "stock":100,
+        "price":899,
+        "img":"/images/droolschunk.jpg"
+    },
+    {
+        "id":13,
+        "title":"drools focus",
+        "stock":100,
+        "price":899,
+        "img":"/images/droolsfocus.jpg"
+    },
+    {
+        "id":14,
+        "title":"trail kit",
+        "stock":100,
+        "price":99,
+        "img":"/images/drooltrail.jpg"
+    },
+    {
+        "id":15,
+        "title":"pedegree",
+        "stock":100,
+        "price":899,
+        "img":"/images/pedegree.jpg"
+    },
+    {
+        "id":16,
+        "title":"adult food 4kg",
+        "stock":100,
+        "price":699,
+        "img":"/images/droolsadult.jpg"
+    },
+    {
+        "id":17,
+        "title":"chunk fo0d",
+        "stock":100,
+        "price":699,
+        "img":"/images/droolschunk.jpg"
+    },
+    {
+        "id":18,
+        "title":"drools focus",
+        "stock":100,
+        "price":89,
+        "img":"/images/droolsfocus.jpg"
+    },
+    {
+        "id":19,
+        "title":"trail kit",
+        "stock":100,
+        "price":899,
+        "img":"/images/drooltrail.jpg"
+    },
+    {
+        "id":20,
+        "title":"pedegree",
+        "stock":100,
+        "price":999,
+        "img":"/images/vijay.mp4"
+    }
+
+]
