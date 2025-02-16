@@ -9,10 +9,10 @@ export function Home() {
         <div>
              <Navbar />
          <div className='ad1'>
-                    <Link to="/petaccessories"><img src='/images/a.jpg' alt="Dog" className='imagead1' /></Link>
+                    <Link to="/petaccessories"><img src='/public/images/a.jpg' alt="Dog" className='imagead1' /></Link>
                 </div>
                 <div className='ad1'>
-                    <Link to="/pet"><img src='/images/c.jpg' alt="Dog" className='imagead1' /></Link>
+                    <Link to="/pet"><img src='./public/images/c.jpg' alt="Dog" className='imagead1' /></Link>
                 </div>
 
         </div>
