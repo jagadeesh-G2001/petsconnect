@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/petsconnect/static/css/main.c6a61a52.css",
-    "main.js": "/petsconnect/static/js/main.73d1cffd.js",
+    "main.js": "/petsconnect/static/js/main.3f706e1f.js",
     "static/js/453.7280d1bc.chunk.js": "/petsconnect/static/js/453.7280d1bc.chunk.js",
     "index.html": "/petsconnect/index.html",
     "main.c6a61a52.css.map": "/petsconnect/static/css/main.c6a61a52.css.map",
-    "main.73d1cffd.js.map": "/petsconnect/static/js/main.73d1cffd.js.map",
+    "main.3f706e1f.js.map": "/petsconnect/static/js/main.3f706e1f.js.map",
     "453.7280d1bc.chunk.js.map": "/petsconnect/static/js/453.7280d1bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6a61a52.css",
-    "static/js/main.73d1cffd.js"
+    "static/js/main.3f706e1f.js"
   ]
 }
